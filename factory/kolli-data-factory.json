@@ -1,0 +1,9 @@
+{
+	"name": "kolli-data-factory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d34b11fd-027f-499a-bc97-c2180312e8ef",
+		"tenantId": "8da0aba3-2570-434c-acaf-4beea20f3634"
+	}
+}
